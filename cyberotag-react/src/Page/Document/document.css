@@ -1,0 +1,72 @@
+/* document.css */
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  display: flex;
+}
+
+.document-list {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.document-form {
+  flex: 1;
+}
+
+.document-ul {
+  list-style: none;
+  padding: 0;
+}
+
+.document-li {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+}
+
+.document-li p {
+  margin: 5px 0;
+}
+
+.document-image {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
+
+.button-group {
+  margin-top: 10px;
+}
+
+.delete-button,
+.update-button,
+.add-button {
+  padding: 8px 16px;
+  margin-right: 5px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.delete-button:hover,
+.update-button:hover,
+.add-button:hover {
+  background-color: #0056b3;
+}
+
+.input-field {
+  margin: 5px 0;
+  padding: 8px;
+  width: 100%;
+}
+
+.add-button {
+  margin-top: 10px;
+  background-color: #4caf50;
+}

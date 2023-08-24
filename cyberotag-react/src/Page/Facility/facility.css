@@ -1,0 +1,28 @@
+.facility-container {
+  display: flex;
+  align-items: stretch;
+}
+
+.facility-list {
+  flex: 1;
+  padding: 20px;
+}
+
+.facility-list h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.facility-list table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+
+.facility-list th, .facility-list td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+

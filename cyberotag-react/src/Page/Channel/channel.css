@@ -1,0 +1,78 @@
+/* Operatör sayfasının genel stil ayarları */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    display: flex;
+  }
+  
+  .channel-list {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .channel-form {
+    flex: 1;
+  }
+  
+  /* Tablo stil ayarları */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th,
+  td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Yeni kanal ekle bölümünün stil ayarları */
+  div > input {
+    margin-right: 10px;
+    padding: 8px;
+  }
+  
+  div > button {
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  div > button:hover {
+    background-color: #45a049;
+  }
+  
+  /* İşlem düğmelerinin stil ayarları */
+  button {
+    padding: 4px 8px;
+    margin-right: 5px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  button:active {
+    background-color: #003973;
+  }
+  
+  /* Yükleme mesajının stil ayarları */
+  p {
+    font-style: italic;
+    color: #666;
+  }
+  

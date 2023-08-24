@@ -1,0 +1,69 @@
+/* operation.css */
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.operation-list,
+.operation-form {
+  flex: 1;
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+button {
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.operation-form div {
+  display: flex;
+  flex-direction: column;
+}
+
+.operation-form input,
+.operation-form select {
+  margin: 5px 0;
+  padding: 8px;
+  width: 100%; /* Aynı genişlikte input ve select elementlerini doldurur */
+  box-sizing: border-box; /* Padding alanını da dahil ederek boyutu korur */
+}
+
+.operation-form select {
+  border: 1px solid #ccc;
+}
+
+.operation-form button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.operation-form button:hover {
+  background-color: #45a049;
+}
