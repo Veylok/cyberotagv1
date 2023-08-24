@@ -1,0 +1,42 @@
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\bin\Debug\net7.0\DbAccess.deps.json
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\bin\Debug\net7.0\DbAccess.runtimeconfig.json
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\bin\Debug\net7.0\DbAccess.dll
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\bin\Debug\net7.0\DbAccess.pdb
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\obj\Debug\net7.0\DbAccess.csproj.AssemblyReference.cache
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\obj\Debug\net7.0\DbAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\obj\Debug\net7.0\DbAccess.AssemblyInfoInputs.cache
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\obj\Debug\net7.0\DbAccess.AssemblyInfo.cs
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\obj\Debug\net7.0\DbAccess.csproj.CoreCompileInputs.cache
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\obj\Debug\net7.0\DbAccess.dll
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\obj\Debug\net7.0\refint\DbAccess.dll
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\obj\Debug\net7.0\DbAccess.pdb
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\obj\Debug\net7.0\DbAccess.genruntimeconfig.cache
+C:\Users\veylo\OneDrive\Masaüstü\KAYAFI YEDİM\DbAccess\obj\Debug\net7.0\ref\DbAccess.dll
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\bin\Debug\net7.0\DbAccess.deps.json
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\bin\Debug\net7.0\DbAccess.runtimeconfig.json
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\bin\Debug\net7.0\DbAccess.dll
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\bin\Debug\net7.0\DbAccess.pdb
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\obj\Debug\net7.0\DbAccess.csproj.AssemblyReference.cache
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\obj\Debug\net7.0\DbAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\obj\Debug\net7.0\DbAccess.AssemblyInfoInputs.cache
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\obj\Debug\net7.0\DbAccess.AssemblyInfo.cs
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\obj\Debug\net7.0\DbAccess.csproj.CoreCompileInputs.cache
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\obj\Debug\net7.0\DbAccess.dll
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\obj\Debug\net7.0\refint\DbAccess.dll
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\obj\Debug\net7.0\DbAccess.pdb
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\obj\Debug\net7.0\DbAccess.genruntimeconfig.cache
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag\DbAccess\obj\Debug\net7.0\ref\DbAccess.dll
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\bin\Debug\net7.0\DbAccess.deps.json
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\bin\Debug\net7.0\DbAccess.runtimeconfig.json
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\bin\Debug\net7.0\DbAccess.dll
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\bin\Debug\net7.0\DbAccess.pdb
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\obj\Debug\net7.0\DbAccess.csproj.AssemblyReference.cache
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\obj\Debug\net7.0\DbAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\obj\Debug\net7.0\DbAccess.AssemblyInfoInputs.cache
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\obj\Debug\net7.0\DbAccess.AssemblyInfo.cs
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\obj\Debug\net7.0\DbAccess.csproj.CoreCompileInputs.cache
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\obj\Debug\net7.0\DbAccess.dll
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\obj\Debug\net7.0\refint\DbAccess.dll
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\obj\Debug\net7.0\DbAccess.pdb
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\obj\Debug\net7.0\DbAccess.genruntimeconfig.cache
+C:\Users\veylo\OneDrive\Masaüstü\deneyelim\CyberOtag_.net\DbAccess\obj\Debug\net7.0\ref\DbAccess.dll
